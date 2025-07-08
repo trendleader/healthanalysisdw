@@ -1,10 +1,5 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC
-
-# COMMAND ----------
-
-# MAGIC %md
 # MAGIC # Pharmacy Claims Report July 2025
 
 # COMMAND ----------
